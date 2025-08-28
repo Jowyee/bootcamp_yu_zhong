@@ -82,6 +82,7 @@ The stakeholder-ready summary (in PDF/slide format, stored in /reports/stakehold
 - For High-Net-Worth Individuals/Institutional Investors: Clarify the strategy’s expected return range, compare it with market benchmarks, explain the risk level of investments (e.g., maximum potential drawdown), and disclose key data sources (e.g., Wikipedia GDP data) and analysis methods to ensure information transparency .
 
 # 6. Project File Structure
+```
 [Repository Root Directory]
 ├── data/                # Data directory (meets clean folder structure requirements)
 │   ├── raw/             # Unmodified raw data from external sources
@@ -104,3 +105,4 @@ The stakeholder-ready summary (in PDF/slide format, stored in /reports/stakehold
 ├── .env.example         # Example of environment variables (for data path configuration)
 └── README.md            # Project description document (this file)
 └── {insert\_element\_12\_}
+```
