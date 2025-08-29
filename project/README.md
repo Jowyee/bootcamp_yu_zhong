@@ -6,7 +6,7 @@ This project focuses on the core question: Can the new quantitative trading stra
 ## 2.1 Environment Preparation
 - 1. Clone the project repository to your local machine using the following command:
 ```
-git clone [Your GitHub Repository URL]
+git clone https://github.com/Jowyee/bootcamp_yu_zhong
 cd [Local Repository Path]
 ```
 - 2. Ensure you are using Python 3.7 or a higher version. Install the required dependencies via the requirements.txt file (included in the repository root directory) with:
