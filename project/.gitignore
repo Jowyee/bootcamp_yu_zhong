@@ -1,1 +1,23 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
 
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+
+# Environment variables
+.env
+
+# Data and models
+data/raw/*
+model/*
+outputs/*
